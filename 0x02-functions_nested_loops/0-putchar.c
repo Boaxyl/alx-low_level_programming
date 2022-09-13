@@ -1,7 +1,7 @@
-#include "Alx_school.h"
+#include "main.h"
 
 /**
- * main - Prints Alx_School as a message.
+ * main - Prints Main as a message.
  *
  * Return: Always 0 (Success)
  */
