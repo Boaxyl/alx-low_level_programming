@@ -1,7 +1,7 @@
-#include "main.h"
+#include "holberton.h"
 
 /**
- * main - Prints Main as a message.
+ * main - Prints Holberton as a message.
  *
  * Return: Always 0 (Success)
  */
