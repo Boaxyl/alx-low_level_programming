@@ -16,8 +16,6 @@ void print_most_numbers(void)
 
 	int ch;
 
-
-
 	for (ch = 48; ch < 58; ch++)
 
 	{
